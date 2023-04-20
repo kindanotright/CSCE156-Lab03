@@ -1,10 +1,11 @@
-package unl.cse;
+package unl.soc;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.rules.Timeout;
+
 import org.junit.Rule;
 import org.junit.Test;
 

@@ -1,11 +1,10 @@
 # Computer Science II
 ## Lab 3.0 - Strings & File I/O
 ### Python Version
-
-**[School of Computing](https://computing.unl.edu/)**  
-**[College of Engineering](https://engineering.unl.edu/)**  
-**[University of Nebraska-Lincoln](https://unl.edu)**  
-**[University of Nebraska-Omaha](https://unomaha.edu)**  
+[School of Computing](https://computing.unl.edu)  
+[College of Engineering](https://engineering.unl.edu/)  
+[University of Nebraska-Lincoln](https://unl.edu)  
+[University of Nebraska-Omaha](https://unomaha.edu)  
 
 An introduction to using strings and file input/output in Python.
 
@@ -239,7 +238,7 @@ f.close()
 ### 4. Testing, Submitting & Grading
 
 * Test your programs, fix any errors, and completely debug your programs.
-* Submit the following files through webhandin:
+* Submit the following files:
   * `baseball.py`
   * `dna_analysis.py`
 * Run the grader and verify the output to complete your lab.

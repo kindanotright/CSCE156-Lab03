@@ -15,9 +15,9 @@ included for the honors section.
 
 Prior to lab you should read/review the following resources.
 * Java String tutorial   
-http://download.oracle.com/javase/tutorial/java/data/strings.html
+http://docs.oracle.com/javase/tutorial/java/data/strings.html
 * Java File I/O tutorial  
-http://download.oracle.com/javase/tutorial/essential/io/file.html
+http://docs.oracle.com/javase/tutorial/essential/io/file.html
 * Java tutorial on the `System.out.format` method  
 https://docs.oracle.com/javase/tutorial/java/data/numberformat.html
 

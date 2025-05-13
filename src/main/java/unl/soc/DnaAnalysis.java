@@ -54,14 +54,25 @@ public class DnaAnalysis {
 	 * @return
 	 */
 	public static int countSubsequences(String subSequence) {
-
-		// TODO: implement
-		return 0;
+		if (subSequence == null || subSequence.isEmpty()) {
+			return 0;
+		}
+		int count = 0;
+		int index = 0;
+		while ((index = DNA.indexOf(subSequence, index)) != -1) {
+			count++;
+			index++;
+		}
+		return count;
 	}
 
 	public static void main(String args[]) {
+		if (args.length < 1) {
+			System.err.println("Error: You must provide a DNA subsequence.");
+			System.exit(1);
+		}
 
-		String subSequence = null;
+		String subSequence = args[0];
 
 		int count = countSubsequences(subSequence);
 
